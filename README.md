@@ -2,16 +2,18 @@
 
 Your life, your passionate.
 
-- [snomiao](https://snomiao.com)
+- [snomiao.com](https://snomiao.com)
 - [Monkai](https://monkai.io)
 - [CapsLockX](https://capslockx.snomiao.com/)
-- [AOE2 SSRC](https://ssrc.snomiao.com/)
+- [sno-crawler](https://crawler.snomiao.com)
 - [Userscript by SNO](https://snomiao.github.io/userscript.js/)
+- [tomato-life - npm](https://www.npmjs.com/package/tomato-life)
+- [schcal - npm](https://www.npmjs.com/package/schcal)
+- [snomiao/snocad](https://github.com/snomiao/snocad)
 
 ---
 
-- [tomato-life - npm](https://www.npmjs.com/package/tomato-life)
-- [schcal - npm](https://www.npmjs.com/package/schcal)
+- [AOE2 SSRC](https://sarsrc.snomiao.com/)
 
 ---
 
