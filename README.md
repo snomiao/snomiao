@@ -1,6 +1,6 @@
 # Hey, SNO
 
-Your life, your passionate.
+Your life, your passionate
 
 - [snomiao.com](https://snomiao.com)
 - [Monkai](https://monkai.io)
