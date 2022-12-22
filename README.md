@@ -16,7 +16,7 @@ Your life, your passionate
 
 ---
 
-- [SNOLAB/雪星实验室](https://lab.snomiao.com/)
+- [SNOLAB](https://lab.snomiao.com/)
 
 ## Donate
 
