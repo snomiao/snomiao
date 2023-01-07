@@ -2,12 +2,11 @@
 
 Your life, your passionate
 
-- [snomiao.com](https://snomiao.com)
-- [snomiao.com](https://snomiao.com)
-
 - [SNOLAB](https://lab.snomiao.com/)
 - [SNOLAB/CapsLockX](https://capslockx.snomiao.com/)
-- [Userscript by SNO](https://snomiao.github.io/userscript.js/)
+- [snomiao.com](https://snomiao.com)
+- [snomiao/js]( https://github.com/snomiao/js )
+- [snomiao/userscript.js](https://snomiao.github.io/userscript.js/)
 
 ## Donate
 
