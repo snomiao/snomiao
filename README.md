@@ -1,13 +1,5 @@
 # Hey, SNO
 
-Your life, your passionate
-
-- [SNOLAB](https://lab.snomiao.com/)
-- [SNOLAB/CapsLockX](https://capslockx.snomiao.com/)
-- [snomiao.com](https://snomiao.com)
-- [snomiao/js]( https://github.com/snomiao/js )
-- [snomiao/userscript.js](https://snomiao.github.io/userscript.js/)
-
 ## I'm Speaking...
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snomiao&layout=compact)
