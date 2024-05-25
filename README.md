@@ -4,6 +4,8 @@
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snomiao&layout=compact)
 
+English / Chinese / Cantonese / Japanese
+
 ## Donate
 
 - snomiao@gmail.com (wise, paypal, alipay)
