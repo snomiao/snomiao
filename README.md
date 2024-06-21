@@ -8,7 +8,7 @@ English / Chinese / Cantonese / Japanese
 
 <details>
 <summary>
-## Donate?
+## Want Sponsor?
 </summary>
 
 - Wise, Paypal, Alipay: snomiao@gmail.com
