@@ -2,7 +2,7 @@
 
 ## I'm Speaking...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snomiao)](https://github.com/snomiao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snomiao)](https://github.com/snomiao/snomiao)
 
 English / Chinese / Cantonese / Japanese
 
