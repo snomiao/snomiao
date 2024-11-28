@@ -2,13 +2,20 @@
 
 ## I'm Speaking...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snomiao)](https://github.com/snomiao/snomiao)
+Typescript / Javascript / Python / Golang
+
+Autohotkey / Mathematica
 
 English / Chinese / Cantonese / Japanese
 
+## Projects
+
+- [snolab/CapsLockX: Manipulate your computer like a hacker! 像黑客一样操作电脑！]( https://github.com/snolab/CapsLockX )
+- [Comfy-Org/Comfy-PR]( https://github.com/Comfy-Org/Comfy-PR )
+
 <details>
 <summary>
-## Want Sponsor?
+## Sponsor
 </summary>
 
 - Wise, Paypal, Alipay: snomiao@gmail.com
