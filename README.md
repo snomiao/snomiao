@@ -1,5 +1,7 @@
 # Taku Yokutou HERE
 
+![](https://komarev.com/ghpvc/?username=snomiao)
+
 - [Links about Taku]( https://bento.me/snomiao )
 
 ## I'm Speaking...
