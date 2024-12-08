@@ -1,9 +1,11 @@
-# Taku Yokutou HERE
+<div style="text-align: center">
+  
+# Taku Yokutou
 
 <!-- since 2024-12-05 -->
 ![](https://komarev.com/ghpvc/?username=snomiao)
 
-- [Links about Taku]( https://bento.me/snomiao )
+</div>
 
 ## I'm Speaking...
 
