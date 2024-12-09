@@ -7,9 +7,10 @@
 
 </div>
 
-## About LinkedIn
+## About My LinkedIn Profile
 
-I am currently not able to access my LinkedIn account: https://www.linkedin.com/in/snomiao/, please contact me by email snomiao@gmail.com instead.
+I am currently not able to access my LinkedIn account: https://www.linkedin.com/in/snomiao/
+Please contact me by email snomiao@gmail.com instead :D
 
 ## I'm Speaking...
 
