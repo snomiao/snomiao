@@ -7,10 +7,6 @@
 
 </div>
 
-## About My LinkedIn Profile
-
-I am currently not able to access my LinkedIn account: https://www.linkedin.com/in/snomiao/
-Please contact me by email snomiao@gmail.com instead :D
 
 ## I'm Speaking...
 
@@ -19,6 +15,11 @@ Typescript / Javascript / Python / Golang
 Autohotkey / Mathematica
 
 English / Chinese / Cantonese / Japanese
+
+## About My LinkedIn Profile
+
+I am currently not able to access my LinkedIn account: https://www.linkedin.com/in/snomiao/
+Please contact me by email snomiao@gmail.com instead :D
 
 ## Projects
 
