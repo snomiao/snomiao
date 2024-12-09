@@ -7,6 +7,10 @@
 
 </div>
 
+## About LinkedIn
+
+I am currently not able to access my LinkedIn account: https://www.linkedin.com/in/snomiao/, please contact me by email snomiao@gmail.com instead.
+
 ## I'm Speaking...
 
 Typescript / Javascript / Python / Golang
