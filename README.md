@@ -18,11 +18,15 @@ English / Chinese / Cantonese / Japanese
 
 ## About My LinkedIn Profile
 
+<details>
+<summary>
 I am currently not able to access my LinkedIn account: https://www.linkedin.com/in/snomiao/
 Please contact me by email snomiao@gmail.com instead :D
-
+</summary>
+  
 ![image](https://github.com/user-attachments/assets/5a994c1e-d777-49ce-8ab8-317e406f0cbf)
 
+</details>
 
 <details>
 <summary>
