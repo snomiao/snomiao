@@ -32,7 +32,7 @@ Please contact me by email snomiao@gmail.com instead :D
 
 <details>
 <summary>
-Links
+Sponsor
 </summary>
 
 - Wise, Paypal, Alipay: snomiao@gmail.com
