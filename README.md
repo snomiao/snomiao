@@ -8,15 +8,11 @@
 </div>
 
 
-## I'm Speaking...
+## Contact Me
 
-Typescript / Javascript / Python / Golang
+I'm Speaking English / Chinese / Cantonese / Japanese, also learning french recently, feel free talk me with your languages :D
 
-Autohotkey / Mathematica
-
-English / Chinese / Cantonese / Japanese
-
-## About My LinkedIn Profile
+### About My LinkedIn Profile
 
 <details>
 <summary>
