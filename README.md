@@ -28,9 +28,11 @@ Please contact me by email snomiao@gmail.com instead :D
 
 </details>
 
+## Support My Projects
+
 <details>
 <summary>
-## Sponsor
+Links
 </summary>
 
 - Wise, Paypal, Alipay: snomiao@gmail.com
