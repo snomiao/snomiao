@@ -2,6 +2,8 @@
   
 # Taku Yokutou
 
+Fullstack developer & Data Analyst
+
 <!-- since 2024-12-05 -->
 ![](https://komarev.com/ghpvc/?username=snomiao)
 
