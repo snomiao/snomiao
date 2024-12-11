@@ -12,6 +12,8 @@
 
 I'm Speaking English / Chinese / Cantonese / Japanese, also learning french recently, feel free talk me with your languages :D
 
+Email: snomiao@gmail.com
+
 ### About My LinkedIn Profile
 
 <details>
