@@ -15,6 +15,7 @@ Fullstack developer & Data Analyst
 I'm Speaking English / 普通话 / 粤語 / 日本語, also learning French recently, feel free talk me with your languages :D
 
 Email: snomiao@gmail.com
+
 Book a casual talk on anything: https://calendar.app.google/9dFbJ4HdkD42m12J6
 
 ### About My LinkedIn Profile
