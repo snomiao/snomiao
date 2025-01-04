@@ -17,7 +17,7 @@ I'm Speaking English / 普通话 / 粤語 / 日本語, also learning French rece
 
 Email: snomiao@gmail.com
 
-Book a casual talk on anything: [https://calendar.app.google/9dFbJ4HdkD42m12J6](https://snol.ink/talk)
+Book a casual talk on anything: [https://snol.ink/talk](https://calendar.app.google/9dFbJ4HdkD42m12J6)
 
 ## Support My Projects
 
