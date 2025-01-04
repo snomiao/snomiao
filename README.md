@@ -9,7 +9,6 @@ Fullstack developer & Data Analyst
 
 </div>
 
-
 ## Contact Me
 
 I'm Speaking English / 普通话 / 粤語 / 日本語, also learning French recently for fun, feel free talk me with your languages :D
