@@ -1,0 +1,16 @@
+{
+  "name": "snomiao",
+  "private": true,
+  "type": "module",
+  "module": "index.ts",
+  "scripts": {
+    "lint": "oxlint --fix .",
+    "fmt": "oxfmt ."
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

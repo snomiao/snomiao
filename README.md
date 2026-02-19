@@ -1,11 +1,14 @@
 <div style="text-align: center">
-  
+
 # Snowstar Miao
 
 Hacky Fullstack developer & Data Analyst
 
 <!-- since 2024-12-05 -->
+
 ![](https://komarev.com/ghpvc/?username=snomiao)
+
+Problem Solver / Product Builder
 
 </div>
 
@@ -29,8 +32,9 @@ Sponsor
 </summary>
 
 - Wise, Paypal, Alipay: snomiao@gmail.com
+- WeChat: search @snomiao, and add me as a friend, then send me a message :D
 - BTC: (MAINTAINING)
-- ETH: 0xdC2EeCe11a9e09c8db921989e54b30375446e49E
+- ETH: [0xdC2EeCe11a9e09c8db921989e54b30375446e49E](https://etherscan.io/address/0xdC2EeCe11a9e09c8db921989e54b30375446e49E)
 - Monero: 48VK3d9LHcdiHPvwfxbGFB6VQg9zS6Y8F3YDZr3tti3tE6XmSc7HVrnTT9wTZcZjPw5AntN7QEZV2VWa1LWCRe278nYUtSg
 
 </details>
