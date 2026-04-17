@@ -33,18 +33,18 @@ I'm speaking English / 普通话 / 粤語 / 日本語, also learning French rece
 | | [rechrome](https://github.com/snomiao/rechrome) | Remote Chrome CLI proxy for Playwright |
 | | [comfyui-mcp-server](https://github.com/snomiao/comfyui-mcp-server) | MCP server for local ComfyUI |
 | | [comfy-codesearch-cli](https://github.com/snomiao/comfy-codesearch-cli) | CLI for ComfyUI Code Search |
-| **AI Agent Tools** | [agent-yes](https://github.com/snomiao/agent-yes) ⭐15 | Automate Claude CLI interactions |
+| **AI Agent Tools** | [agent-yes](https://github.com/snomiao/agent-yes) | Automate Claude CLI interactions |
 | | [claude-code-execute](https://github.com/snomiao/claude-code-execute) | Execute prompts with Claude Code until idle |
 | | [otoji](https://github.com/snomiao/otoji) | Realtime speech ⇄ text in a terminal UI (Rust) |
 | | [demowright](https://github.com/snomiao/demowright) | Playwright plugin for polished demo videos |
 | **ComfyUI Ecosystem** | [Comfy-PR](https://github.com/Comfy-Org/Comfy-PR) | Growing with the ComfyUI community |
 | | [Comfy-QA](https://github.com/Comfy-Org/Comfy-QA) | Quality assurance for ComfyUI |
-| | [ComfyUI-Video-Crop](https://github.com/snomiao/ComfyUI-Video-Crop) ⭐5 | Video cropping nodes for ComfyUI |
-| **Input Methods & Keyboard** | [rime-snomiao](https://github.com/snomiao/rime-snomiao) ⭐74 | All-in-one multilingual input: Pinyin+Wubi+Romaji+English |
-| | [CapsLockX](https://github.com/snomiao/capslockx) ⭐28 | CapsLock as a modifier superkey |
+| | [ComfyUI-Video-Crop](https://github.com/snomiao/ComfyUI-Video-Crop) | Video cropping nodes for ComfyUI |
+| **Input Methods & Keyboard** | [rime-snomiao](https://github.com/snomiao/rime-snomiao) | All-in-one multilingual input: Pinyin+Wubi+Romaji+English |
+| | [CapsLockX](https://github.com/snomiao/capslockx) | CapsLock as a modifier superkey |
 | | [capslockx-mac](https://github.com/snomiao/capslockx-mac) | CapsLockX ported to macOS |
-| | [snochorded](https://github.com/snomiao/snochorded) ⭐6 | Chorded keyboard via simultaneous key presses |
-| **Libraries & Utilities** | [sflow](https://github.com/snomiao/sflow) ⭐4 | Elegant stream processing for TypeScript |
+| | [snochorded](https://github.com/snomiao/snochorded) | Chorded keyboard via simultaneous key presses |
+| **Libraries & Utilities** | [sflow](https://github.com/snomiao/sflow) | Elegant stream processing for TypeScript |
 | | [terminal-render](https://github.com/snomiao/terminal-render) | Render terminal text with ANSI escape sequences |
 | | [bunproxy](https://github.com/snomiao/bunproxy) | Domain-based port forwarder powered by Bun |
 
