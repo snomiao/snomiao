@@ -37,7 +37,9 @@ I'm speaking English / 普通话 / 粤語 / 日本語, also learning French rece
 | | [claude-code-execute](https://github.com/snomiao/claude-code-execute) | Execute prompts with Claude Code until idle |
 | | [otoji](https://github.com/snomiao/otoji) | Realtime speech ⇄ text in a terminal UI (Rust) |
 | | [demowright](https://github.com/snomiao/demowright) | Playwright plugin for polished demo videos |
-| **ComfyUI Ecosystem** | [Comfy-PR](https://github.com/Comfy-Org/Comfy-PR) | Growing with the ComfyUI community |
+| **ComfyUI Ecosystem** | [ComfyUI_frontend](https://github.com/snomiao/ComfyUI_frontend) | Front-end of ComfyUI modernized |
+| | [registry-web](https://github.com/snomiao/registry-web) | React app for Comfy Registry |
+| | [Comfy-PR](https://github.com/Comfy-Org/Comfy-PR) | Growing with the ComfyUI community |
 | | [Comfy-QA](https://github.com/Comfy-Org/Comfy-QA) | Quality assurance for ComfyUI |
 | | [ComfyUI-Video-Crop](https://github.com/snomiao/ComfyUI-Video-Crop) | Video cropping nodes for ComfyUI |
 | **Input Methods & Keyboard** | [rime-snomiao](https://github.com/snomiao/rime-snomiao) | All-in-one multilingual input: Pinyin+Wubi+Romaji+English |
