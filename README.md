@@ -42,11 +42,15 @@ Book a casual talk on anything: [https://snol.ink/talk](https://calendar.app.goo
 
 ## Support My Projects
 
+Issues and PRs are always welcome!
+
 <details>
 <summary>
-Sponsor
+Sponsor by payment / crypto / AI credits
 </summary>
 
+- 💛 [Sponsor / donate](https://github.com/snomiao) — options on my homepage
+- 🤖 Gift AI credits (Claude / OpenAI / etc.) — built with AI, every token goes straight back into shipping features
 - Wise, Paypal, Alipay: snomiao@gmail.com
 - WeChat: search @snomiao, and add me as a friend, then send me a message :D
 - BTC: (MAINTAINING)
