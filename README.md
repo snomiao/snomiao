@@ -24,31 +24,15 @@ I'm speaking English / 普通话 / 粤語 / 日本語, also learning French rece
 
 ## Featured Projects
 
-| Category | Project | Description |
-|---|---|---|
-| **AI Integrations & CLI** | [onenote-cli](https://github.com/snomiao/onenote-cli) | OneNote CLI with full-text search via Graph API |
-| | [onenote-mcp](https://github.com/snomiao/onenote-mcp) | MCP server for Microsoft OneNote |
-| | [qqdocs](https://github.com/snomiao/qqdocs) | Tencent Docs CLI and MCP library |
-| | [slack-cli](https://github.com/snomiao/slack-cli) | Slack CLI written in Rust |
-| | [rechrome](https://github.com/snomiao/rechrome) | Remote Chrome CLI proxy for Playwright |
-| | [comfyui-mcp-server](https://github.com/snomiao/comfyui-mcp-server) | MCP server for local ComfyUI |
-| | [comfy-codesearch-cli](https://github.com/snomiao/comfy-codesearch-cli) | CLI for ComfyUI Code Search |
-| **AI Agent Tools** | [agent-yes](https://github.com/snomiao/agent-yes) | Automate Claude CLI interactions |
-| | [claude-code-execute](https://github.com/snomiao/claude-code-execute) | Execute prompts with Claude Code until idle |
-| | [otoji](https://github.com/snomiao/otoji) | Realtime speech ⇄ text in a terminal UI (Rust) |
-| | [demowright](https://github.com/snomiao/demowright) | Playwright plugin for polished demo videos |
-| **ComfyUI Ecosystem** | [ComfyUI_frontend](https://github.com/snomiao/ComfyUI_frontend) | Front-end of ComfyUI modernized |
-| | [registry-web](https://github.com/snomiao/registry-web) | React app for Comfy Registry |
-| | [Comfy-PR](https://github.com/Comfy-Org/Comfy-PR) | Growing with the ComfyUI community |
-| | [Comfy-QA](https://github.com/Comfy-Org/Comfy-QA) | Quality assurance for ComfyUI |
-| | [ComfyUI-Video-Crop](https://github.com/snomiao/ComfyUI-Video-Crop) | Video cropping nodes for ComfyUI |
-| **Input Methods & Keyboard** | [rime-snomiao](https://github.com/snomiao/rime-snomiao) | All-in-one multilingual input: Pinyin+Wubi+Romaji+English |
-| | [CapsLockX](https://github.com/snomiao/capslockx) | CapsLock as a modifier superkey |
-| | [capslockx-mac](https://github.com/snomiao/capslockx-mac) | CapsLockX ported to macOS |
-| | [snochorded](https://github.com/snomiao/snochorded) | Chorded keyboard via simultaneous key presses |
-| **Libraries & Utilities** | [sflow](https://github.com/snomiao/sflow) | Elegant stream processing for TypeScript |
-| | [terminal-render](https://github.com/snomiao/terminal-render) | Render terminal text with ANSI escape sequences |
-| | [bunproxy](https://github.com/snomiao/bunproxy) | Domain-based port forwarder powered by Bun |
+**AI Integrations & CLI** · [onenote-cli](https://github.com/snomiao/onenote-cli) · [onenote-mcp](https://github.com/snomiao/onenote-mcp) · [qqdocs](https://github.com/snomiao/qqdocs) · [slack-cli](https://github.com/snomiao/slack-cli) · [rechrome](https://github.com/snomiao/rechrome) · [comfyui-mcp-server](https://github.com/snomiao/comfyui-mcp-server) · [comfy-codesearch-cli](https://github.com/snomiao/comfy-codesearch-cli)
+
+**AI Agent Tools** · [agent-yes](https://github.com/snomiao/agent-yes) · [claude-code-execute](https://github.com/snomiao/claude-code-execute) · [otoji](https://github.com/snomiao/otoji) · [demowright](https://github.com/snomiao/demowright)
+
+**ComfyUI Ecosystem** · [ComfyUI_frontend](https://github.com/snomiao/ComfyUI_frontend) · [registry-web](https://github.com/snomiao/registry-web) · [Comfy-PR](https://github.com/Comfy-Org/Comfy-PR) · [Comfy-QA](https://github.com/Comfy-Org/Comfy-QA) · [ComfyUI-Video-Crop](https://github.com/snomiao/ComfyUI-Video-Crop)
+
+**Input Methods & Keyboard** · [rime-snomiao](https://github.com/snomiao/rime-snomiao) · [CapsLockX](https://github.com/snomiao/capslockx) · [capslockx-mac](https://github.com/snomiao/capslockx-mac) · [snochorded](https://github.com/snomiao/snochorded)
+
+**Libraries & Utilities** · [sflow](https://github.com/snomiao/sflow) · [terminal-render](https://github.com/snomiao/terminal-render) · [bunproxy](https://github.com/snomiao/bunproxy)
 
 ## Contact Me
 
