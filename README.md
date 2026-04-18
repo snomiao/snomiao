@@ -53,8 +53,8 @@ Sponsor by payment / crypto / AI credits
 - 🤖 Gift AI credits (Claude / OpenAI / etc.) — built with AI, every token goes straight back into shipping features
 - Wise, Paypal, Alipay: snomiao@gmail.com
 - WeChat: search @snomiao, and add me as a friend, then send me a message :D
-- BTC: (MAINTAINING)
+- BTC: contact me to get an address
 - ETH: [0xdC2EeCe11a9e09c8db921989e54b30375446e49E](https://etherscan.io/address/0xdC2EeCe11a9e09c8db921989e54b30375446e49E)
-- Monero: 48VK3d9LHcdiHPvwfxbGFB6VQg9zS6Y8F3YDZr3tti3tE6XmSc7HVrnTT9wTZcZjPw5AntN7QEZV2VWa1LWCRe278nYUtSg
+- Monero: [48VK3d9LHcdiHPvwfxbGFB6VQg9zS6Y8F3YDZr3tti3tE6XmSc7HVrnTT9wTZcZjPw5AntN7QEZV2VWa1LWCRe278nYUtSg](monero:48VK3d9LHcdiHPvwfxbGFB6VQg9zS6Y8F3YDZr3tti3tE6XmSc7HVrnTT9wTZcZjPw5AntN7QEZV2VWa1LWCRe278nYUtSg)
 
 </details>
