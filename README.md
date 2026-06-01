@@ -1,6 +1,6 @@
 <div style="text-align: center">
 
-# Snowstar Miao / Taku Yokutou
+# Snowstar Miao
 
 Hacky Fullstack developer & Data Analyst
 
