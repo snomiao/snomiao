@@ -2,17 +2,11 @@
 
 # Snowstar Miao
 
-Hacky Fullstack developer & Data Analyst
+Hacky Builder who makes your dream possible.
 
 <!-- since 2024-12-05 -->
 
 ![](https://komarev.com/ghpvc/?username=snomiao)
-
-Problem Solver / Product Builder
-
-従南粤出来，輾転落到東京，一路上手没停过。<br>
-前端、后端、基础設施、工具鏈——不是因為博，是因为毎次总有个新坑在前頭等着。<br>
-钻进去，爬出来，再往前走。建造東西，我従来没觉得有个辺界。
 
 </div>
 
