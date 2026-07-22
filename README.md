@@ -14,7 +14,7 @@ I'm speaking English / 普通话 / 粤語 / 日本語, also learning French rece
 
 ## Things I made
 
-**AI Integrations & CLI** · [onenote-cli](https://github.com/snomiao/onenote-cli) · [onenote-mcp](https://github.com/snomiao/onenote-mcp) · [qqdocs](https://github.com/snomiao/qqdocs) · [slack-cli](https://github.com/snomiao/slack-cli) · [rechrome](https://github.com/snomiao/rechrome) · [comfyui-mcp-server](https://github.com/snomiao/comfyui-mcp-server) · [comfy-codesearch-cli](https://github.com/snomiao/comfy-codesearch-cli)
+**AI Integrations & CLI** · [onenote-cli](https://github.com/snomiao/onenote-cli) · [qqdocs](https://github.com/snomiao/qqdocs) · [slack-cli](https://github.com/snomiao/slack-cli) · [rechrome](https://github.com/snomiao/rechrome) · [comfyui-mcp-server](https://github.com/snomiao/comfyui-mcp-server) · [comfy-codesearch-cli](https://github.com/snomiao/comfy-codesearch-cli)
 
 **AI Agent Tools** · [agent-yes](https://github.com/snomiao/agent-yes) · [claude-code-execute](https://github.com/snomiao/claude-code-execute) · [otoji](https://github.com/snomiao/otoji) · [demowright](https://github.com/snomiao/demowright)
 
