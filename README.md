@@ -16,7 +16,7 @@ I'm speaking English / 普通话 / 粤語 / 日本語, also learning French rece
 
 **AI Integrations & CLI** · [onenote-cli](https://github.com/snomiao/onenote-cli) · [qqdocs](https://github.com/snomiao/qqdocs) · [slack-cli](https://github.com/snomiao/slack-cli) · [rechrome](https://github.com/snomiao/rechrome) · [comfyui-mcp-server](https://github.com/snomiao/comfyui-mcp-server) · [comfy-codesearch-cli](https://github.com/snomiao/comfy-codesearch-cli)
 
-**AI Agent Tools** · [agent-yes](https://github.com/snomiao/agent-yes) · [claude-code-execute](https://github.com/snomiao/claude-code-execute) · [otoji](https://github.com/snomiao/otoji) · [demowright](https://github.com/snomiao/demowright)
+**AI Agent Tools** · [agent-yes](https://github.com/snomiao/agent-yes) · [otoji](https://github.com/snomiao/otoji) · [demowright](https://github.com/snomiao/demowright)
 
 **ComfyUI Ecosystem** · [ComfyUI_frontend](https://github.com/snomiao/ComfyUI_frontend) · [registry-web](https://github.com/snomiao/registry-web) · [Comfy-PR](https://github.com/Comfy-Org/Comfy-PR) · [Comfy-QA](https://github.com/Comfy-Org/Comfy-QA) · [ComfyUI-Video-Crop](https://github.com/snomiao/ComfyUI-Video-Crop)
 
